@@ -1,0 +1,44 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#carouselExampleCaptions{
+    background-color: grey;
+    text-align: center;
+}
+
+.promoUno img {
+    border: 2px solid black;
+    text-align: center;
+    }
+
+    .promoBoton {
+        border: 2px solid black;
+        margin-right: 1100px;
+        background-color: green;
+        color: brown;
+        background-image: linear-gradient(lightblue,greenyellow);
+        font-family: sans-serif;
+    }
+.textoDePromo {
+    text-align: left;
+    font-family: sans-serif;
+    background-image: linear-gradient(greenyellow, green);
+    border: solid 2px;
+}
+section {
+    background-image: linear-gradient(green, black);
+}
+.titulo {
+    text-align: center;
+}
+footer {
+    text-align: center;
+    font-family: sans-serif;
+    background-color: darkgreen;
+    padding: 0px;
+    margin: 0px;
+}
+.d-block {
+    margin-left: 500px;
+}
